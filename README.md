@@ -1,4 +1,4 @@
-# QR-File-Importer
+# QR-File-Transfer
 基于二维码的数据跨网段还原工具，支持扫描图片目录或文本数据流，自动重组分片、解压并进行 SHA256 完整性校验。
 
 QR File Importer专用于在物理隔离（Air-gapped）或无网环境下传输小文件的接收端还原脚本。
